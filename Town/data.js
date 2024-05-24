@@ -289,6 +289,7 @@ var APP_DATA = {
           "pitch": 0.4917699635123238,
           "rotation": 0,
           "target": "4-"
+		}
       ],
       "infoHotspots": [
         {
